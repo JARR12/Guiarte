@@ -1,0 +1,71 @@
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/eafit_pi1_20131_guiarte/!svn/ver/114/trunk/Guiarte/www/js/recursos
+END
+controllerSesion.js
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/eafit_pi1_20131_guiarte/!svn/ver/115/trunk/Guiarte/www/js/recursos/controllerSesion.js
+END
+jquery-1.9.0.min.js
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/eafit_pi1_20131_guiarte/!svn/ver/85/trunk/Guiarte/www/js/recursos/jquery-1.9.0.min.js
+END
+controllerCalificados.js
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/eafit_pi1_20131_guiarte/!svn/ver/115/trunk/Guiarte/www/js/recursos/controllerCalificados.js
+END
+jquery-validate.js
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/eafit_pi1_20131_guiarte/!svn/ver/85/trunk/Guiarte/www/js/recursos/jquery-validate.js
+END
+googlemap.js
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/eafit_pi1_20131_guiarte/!svn/ver/115/trunk/Guiarte/www/js/recursos/googlemap.js
+END
+controllerAdmin.js
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/eafit_pi1_20131_guiarte/!svn/ver/115/trunk/Guiarte/www/js/recursos/controllerAdmin.js
+END
+controllerBusqueda.js
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/eafit_pi1_20131_guiarte/!svn/ver/115/trunk/Guiarte/www/js/recursos/controllerBusqueda.js
+END
+controllerCargarLugar.js
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/eafit_pi1_20131_guiarte/!svn/ver/115/trunk/Guiarte/www/js/recursos/controllerCargarLugar.js
+END
+controllerInicio.js
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/eafit_pi1_20131_guiarte/!svn/ver/115/trunk/Guiarte/www/js/recursos/controllerInicio.js
+END
+controllerUltimos.js
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/eafit_pi1_20131_guiarte/!svn/ver/115/trunk/Guiarte/www/js/recursos/controllerUltimos.js
+END
+controller.js
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/eafit_pi1_20131_guiarte/!svn/ver/115/trunk/Guiarte/www/js/recursos/controller.js
+END
